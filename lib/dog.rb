@@ -1,6 +1,6 @@
 class Dog
   def name=(dog_name)
-    @name
+    @name = dog
   end
   
   def name
